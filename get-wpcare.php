@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Get WPcare
  * Plugin URI: https://github.com/CapWebSolutions/get-wpcare
- * Description: Adds a clickable link in the admin bar enabling user to request Wpcare support.
+ * Description: Adds a clickable link in the admin bar enabling user to request WPcare support from Cap Web Solutions.
  * Version: 1.0.0
  * Author: Cap Web Solutions
  * Author URI: https://capwebsolutions.com
